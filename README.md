@@ -5,5 +5,5 @@ sail up -d
 
 sail npm install
 
-sail npm run prod
+sail npm run build
 ```
